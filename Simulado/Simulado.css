@@ -1,0 +1,15 @@
+table{width: 100%;}
+#verde{background-color:#e3ffb6; width: 16%;}
+#azul{background-color: rgb(107, 193, 225);
+font-size: 0.8em;
+vertical-align: top;
+padding:2%;}
+#amarelo{background-color: #fffb99;
+width: 12%;}
+#laranja{background-color: #ff9900;
+width: 3%;}
+#cinza02{background-color: gray;
+width: 12%;}
+#cinza{background-color: gray;}
+#logo{text-align: center;}
+

@@ -1,0 +1,26 @@
+table{width: 100%;
+background-image: url(fundo/ 1.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;}
+#cabecalho{background-color: rgba(58, 11, 99, 1); height: 80px;width: 100%;}
+body{margin: 0; font-family: "Roboto", sans-serif;}
+#logo{width: 400px;}
+#cotemig{height: 300px;width: 20px; vertical-align: bottom;}
+ #matriculas{text-align: center;vertical-align: bottom;height: 250px;}
+ #form{width: 600px;}
+ #telefone{text-align: center;}
+#google{text-align: center;} 
+.rosa{background-color: rgba(251, 69, 199, 1);width: 200px;height: 200px;}
+#img1{height: 400px;}
+#txt1{color: white;}
+.verde{background-color: #89f668;
+width: 200px;
+height: 200px;}
+#coluna{column-count: 3;
+text-align:center ;
+color: rgb(182, 16, 131);
+font-weight: bold;}
+.roxo{background-color: rgba(67, 11, 110, 1);}
+#verde{color: rgb(137, 246, 184);
+text-align: center;}

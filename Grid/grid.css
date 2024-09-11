@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Cairo", sans-serif;
+
+
+}
+header{
+    height: 40px;
+    background-color: lightgray;
+    font-family: "Cairo", sans-serif;
+    font-size: 14px;
+}
+header svg{
+    height: 14px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+#facebook{
+    margin-left: 700px;
+    margin-top: 15px;
+    height: 14px;
+}
+
+#main{
+    display: grid;
+    grid-template-columns: 1.3fr 1fr 1fr 1fr 1fr 1.3fr;
+    grid-template-rows: 80px 80px 431px 263px;
+}
+#main>div{
+    border: solid 1px;
+}
+
+#logo{
+    grid-column: 2;
+}
+#navegacao{
+grid-column: 3/6;
+display: flex;
+flex-direction: ROW;
+GAP:50PX;
+margin-top: 20px;
+}
+#menu{
+    grid-column: 2;
+    grid-row: 2/4;
+}
+#busca{
+    grid-column: 3/6;
+    grid-row: 3;
+
+}
+#banner{
+    grid-column: 3/6;
+    grid-row: 3;
+
+}
+#prod01{
+    grid-row: 4;
+    grid-column: 3;
+}
+#prod02{
+    grid-row: 4;
+    grid-column: 2;
+}
+#prod03{
+    grid-row: 4;
+    grid-column: 4;
+}
+#prod04{
+    grid-row: 4;
+    grid-column: 5;
+}
+#navegacao h1{
+     font-size: 14px;
+ 
+     color: #252525;
+}
+#coracao{
+    height: 18px;
+    margin-top: 6px;
+    margin-left: 120px;
+
+}
+#sacola{
+    height: 18px;
+    margin-top: 6px;
+   
+}
